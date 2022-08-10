@@ -11,6 +11,8 @@ namespace Brian
             Console.WriteLine(" /   |")
             Console.WriteLine("/____|")
 
+            Console.WriteLine("yaaani!")
+
             Console.ReadLine();
         }
     }
